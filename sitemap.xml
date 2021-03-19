@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://charlytech.github.io/PortfolioWebsite/categories/</loc>
+    <loc>https://charly.tech/categories/</loc>
   </url><url>
-    <loc>https://charlytech.github.io/PortfolioWebsite/</loc>
+    <loc>https://charly.tech/</loc>
   </url><url>
-    <loc>https://charlytech.github.io/PortfolioWebsite/series/</loc>
+    <loc>https://charly.tech/series/</loc>
   </url><url>
-    <loc>https://charlytech.github.io/PortfolioWebsite/tags/</loc>
+    <loc>https://charly.tech/tags/</loc>
   </url>
 </urlset>
