@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Hugo/charly_tech",
+	"sourceRoot": "C:/hugo/charly_tech",
 	"sources": [
 		"themes/hugo-theme/assets/scss/main.scss",
 		"themes/hugo-theme/assets/scss/_normalize.scss",
